@@ -13,7 +13,7 @@ Universidade Presbiteriana Mackenzie.
 
 - Caio Cesar Teixeira Rocha
 
-- Livya
+- Livya Kaizer de Albuquerque
 
 ## Metas Específicas
 
