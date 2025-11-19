@@ -30,8 +30,8 @@ Ao longo das quatro etapas, foram aplicadas práticas de:
 
 ## 🎯 Objetivo Principal
 
-Este trabalho propõe o desenvolvimento e avaliação de um sistema de recomenda- 
-ção de filmes utilizando o conjunto de dados TMDB 5000 Movie Dataset (Kaggle). 
+Este trabalho propõe o desenvolvimento e avaliação de um sistema de recomendação de filmes utilizando o conjunto de dados TMDB 5000 Movie Dataset (Kaggle).
+
 ---
 
 # 📅 Cronograma de Atividades
@@ -64,6 +64,6 @@ As principais análises e visualizações incluem:
 # 📁 Artefatos do Projeto
 
 📄 **Documentação completa (PDF):** *adicionar link*  
-📙 **Notebook/Colab:** (https://colab.research.google.com/drive/1079tSoB-bEBd3nabPaufM8G9-w388OKt?usp=sharing#scrollTo=pJGa0KOB9tm4)  
+📙 **Notebook/Colab:** https://colab.research.google.com/drive/1079tSoB-bEBd3nabPaufM8G9-w388OKt?usp=sharing#scrollTo=pJGa0KOB9tm4
 🎥 **Vídeo de apresentação (YouTube):** *adicionar link*  
 
