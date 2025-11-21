@@ -65,5 +65,5 @@ As principais análises e visualizações incluem:
 
 📄 **Documentação completa (PDF):** *adicionar link*  
 📙 **Notebook/Colab:** https://colab.research.google.com/drive/1079tSoB-bEBd3nabPaufM8G9-w388OKt?usp=sharing#scrollTo=pJGa0KOB9tm4
-🎥 **Vídeo de apresentação (YouTube):** *adicionar link*  
+🎥 **Vídeo de apresentação (YouTube):** *(https://youtu.be/xl8NAK09TMk?si=EEZ7H0JinSRxnMP9)*  
 
